@@ -1,0 +1,57 @@
+Change Component Designator: OldDesignator=C? NewDesignator=C1
+Change Component Designator: OldDesignator=D? NewDesignator=D1
+Change Component Designator: OldDesignator=JP? NewDesignator=CAM1
+Change Component Designator: OldDesignator=JP? NewDesignator=CAM2
+Change Component Designator: OldDesignator=JP? NewDesignator=CAM3
+Change Component Designator: OldDesignator=R? NewDesignator=R1
+Change Component Designator: OldDesignator=R? NewDesignator=R2
+Added Component: Designator=P1(HDR1X4)
+Added Component: Designator=P2(HDR1X4)
+Added Component: Designator=P3(HDR1X4)
+Added Component: Designator=P4(HDR1X4)
+Added Pin To Net: NetName=5V Pin=D1-1
+Added Pin To Net: NetName=5V Pin=P1-2
+Added Pin To Net: NetName=5V Pin=P2-2
+Added Pin To Net: NetName=5V Pin=P3-2
+Added Pin To Net: NetName=5V Pin=P4-2
+Added Pin To Net: NetName=5V Pin=R1-1
+Added Net: Name=5V
+Added Pin To Net: NetName=DATA Pin=CAM1-1
+Added Pin To Net: NetName=DATA Pin=CAM2-1
+Added Pin To Net: NetName=DATA Pin=CAM3-1
+Added Pin To Net: NetName=DATA Pin=P1-1
+Added Pin To Net: NetName=DATA Pin=P2-1
+Added Pin To Net: NetName=DATA Pin=P3-1
+Added Pin To Net: NetName=DATA Pin=P4-1
+Added Net: Name=DATA
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=GND Pin=CAM1-2
+Added Pin To Net: NetName=GND Pin=CAM2-2
+Added Pin To Net: NetName=GND Pin=CAM3-2
+Added Pin To Net: NetName=GND Pin=P1-3
+Added Pin To Net: NetName=GND Pin=P2-3
+Added Pin To Net: NetName=GND Pin=P3-3
+Added Pin To Net: NetName=GND Pin=P4-3
+Added Net: Name=GND
+Added Pin To Net: NetName=HIT Pin=P1-4
+Added Pin To Net: NetName=HIT Pin=P2-4
+Added Pin To Net: NetName=HIT Pin=P3-4
+Added Pin To Net: NetName=HIT Pin=P4-4
+Added Pin To Net: NetName=HIT Pin=R2-1
+Added Net: Name=HIT
+Added Pin To Net: NetName=NetC1_1 Pin=C1-1
+Added Pin To Net: NetName=NetC1_1 Pin=CAM1-3
+Added Pin To Net: NetName=NetC1_1 Pin=CAM2-3
+Added Pin To Net: NetName=NetC1_1 Pin=CAM3-3
+Added Pin To Net: NetName=NetC1_1 Pin=R1-2
+Added Net: Name=NetC1_1
+Added Pin To Net: NetName=NetD1_2 Pin=D1-2
+Added Pin To Net: NetName=NetD1_2 Pin=R2-2
+Added Net: Name=NetD1_2
+Added Member To Class: ClassName=Sheet1 Member=Component CAM1 IR CAMERA
+Added Member To Class: ClassName=Sheet1 Member=Component CAM3 IR CAMERA
+Added Member To Class: ClassName=Sheet1 Member=Component P1 Header 4
+Added Member To Class: ClassName=Sheet1 Member=Component P2 Header 4
+Added Member To Class: ClassName=Sheet1 Member=Component P3 Header 4
+Added Member To Class: ClassName=Sheet1 Member=Component P4 Header 4
+Added Member To Class: ClassName=Sheet1 Member=Component R1 Res1
